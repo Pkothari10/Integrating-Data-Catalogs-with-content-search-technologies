@@ -10,7 +10,9 @@ Abstract: With the advent of big data, the demand for data management and explor
 
 Schematic Diagram:
 
-Cropped Image
+![237229583-1c36eba3-04c2-406e-bd06-9e50949dc33d](https://github.com/Pkothari10/Integrating-Data-Catalogs-with-content-search-technologies/assets/121322447/a66f435b-749b-46f6-9d8e-e78cb8f6295c)
+
+
 
 Steps to setup, install and integrate OpenMetadata with Elastic Search
 
