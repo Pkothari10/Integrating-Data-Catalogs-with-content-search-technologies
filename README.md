@@ -1,5 +1,4 @@
-# Integrating-Data-Catalogs-with-content-search-technologies
-
+# Integrating-Data-Catalogs-with-content-search-technologie
 
 
 Team Members:
